@@ -17,5 +17,6 @@ Run:
 > [!NOTE]
 > Example
 `$ make ls`
+
 `$ bin/ls`
 
